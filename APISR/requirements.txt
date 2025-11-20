@@ -1,18 +1,18 @@
 # Relatively static library (These libraries are comparatively stable, so the version here can be versatile, we attached the version we used in the experiments)
-tqdm==4.66.1
-numpy==1.26.0
-torchsummary==1.5.1
-opencv-python==4.8.1.78
-scipy==1.11.3
-omegaconf==2.3.0
+#tqdm==4.66.1
+#numpy==1.26.0
+#torchsummary==1.5.1
+#opencv-python==4.8.1.78
+#scipy==1.11.3
+#omegaconf==2.3.0
 fairscale==0.4.13
-timm==0.9.7
-pandas==2.1.1
-pillow==10.0.1
-requests==2.31.0
-pyyaml==6.0.1
+#timm==0.9.7
+#pandas==2.1.1
+#pillow==10.0.1
+#requests==2.31.0
+#pyyaml==6.0.1
 kornia==0.7.0
-gradio==4.22.0
+#gradio==4.22.0
 moviepy==1.0.3
 
 
