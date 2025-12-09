@@ -1,0 +1,5 @@
+{
+	"work_upscaled": true,
+	"keep_upscaled": true,
+	"treshold": 110    
+}
